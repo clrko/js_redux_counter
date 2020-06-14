@@ -15,7 +15,7 @@ This reposotiry contains an exercice to learn redux (without React)
 * 5 buttons corrsponding to different increment, decrement and reset situations
 * link to the main.js script
 
-### The main.js file in organized into sections to clarify the code: 
+### The main.js file is organized into sections to clarify the code: 
 
 * Actions :section that gathers the different actions that can be executed
 * Reducer: counterReducer pure function that takes for argument the initial state and the action, and returns the new state of the counter
